@@ -1,0 +1,10 @@
+# node modules
+node_modules/
+
+# macOS files
+.DS_Store
+
+# SparREST stuff
+db/
+uploads
+server.py
